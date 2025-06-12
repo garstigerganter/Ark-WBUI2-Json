@@ -1,0 +1,97 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 60,
+			"iconurl": "",
+			"disableicontext": false,
+			"iconposition": 0,
+			"icontextcolor": 6,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Welcome to the HORN Cluster!",
+						"text": "Join the discord and check out the other tabs for more information.\n\nHave fun!"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Server Rules",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "HORN In Game Rules",
+						"text": "1. The areas around the obelisks are not to be built at. If you do your structures might get removed by admins or destroyed by boss fights.\n\n2. Bosses are to be spawned around the obelisks and fought and killed there, so no bases or tames of other players are in danger. For underwater bosses there will be a boss fight teleporter.\n\n3. Don't grief other players by drowning them, luring dinos to their bases, etc. Bannable.\n\n4. Don't kill dinos other players are taming. Accidents can happen of course, but don't make it a habit.\n\n5. Don't block big resource spots, cave entrances or artifacts or you might get asked to move or your structures get removed. Building in artifact caves is allowed if the artifacts in the cave are still accessible for other players.\n\n6. No spamming to claim base spots or spots in general. No spam around the base, this is PvE. If you want protection put up a bubble.\n\n7. You can glitch yourself under the map or build in the mesh if you want but if you have a problem and an admin can't help you there that is your problem then.\n\n8. If you set up a teleporter at a nice resource or artifact location just make it public so everyone can benefit.\n\n9. Always equip the dinos you use with Awesome Trackers so u can recover them from glitched / meshed spots yourself.\n\n10. Don't push character, tribe or tame names too far (for example being racist, sexist, ...). A bit of fun is alright of course.\n\n11. Don't build unnecessary structures and trap all dinos you don't need to be out to lower strain on the server.\n\n12. Kill all dinos you knocked out and don't want to tame and pick up traps after taming."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "HORN Settings",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "General Settings",
+						"text": "20x XP\n\n10x Harvesting\n\n50x Taming\n\n500x Maturation\n\nDino Harvesting Boosted"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Modlist",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "HORN Mod List",
+						"text": "Primal Chaos 932714\nArk Descended 952367\nDino Depot 942024\nUpgrade Station 930494\nCrazy's Crazy\nAscended Potions 932975\nConfigurable Stack Mod 934129\nCG Structures 942452\nMX-E Ark Shop UI 942249\nNanoh's Ascended Accessories 963051\nASA Api Utils 955333\nAwesome Teleporters! 950914\nAutomated Ark 928597\nSimple Element Crafting (CrossPlatform) 955461\nSeed Farm (Console Ready!) 929334\nAwesome Spyglass 947033\nDino Scanner 945254\nArkitect Structures Remastered 931874\nNature's Touch (Crossplay) 935297\nLevel Up Consumables (Engram Unlocker + Ascender) 1110952\nAlfa Oceanic Platforms 933447\nArk Descended Structures 1039294\n[High Ark] Superior Structures 1080327\nWBUI2 931119\nGlider Plus 929775"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Shop",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Shop Commands",
+						"text": "Shop UI isn't set up yet and shop is to be expanded\n\n\nShop Plugin commands:\n\n/points - See your current points balance\n/buy <ID> <Amount> - Buy an item from the shop\n/trade <'CharacterName'> <Amount> - Sends Amount Points to the character name specified\n/kit to list all kits, /kit <KitName> to redeem one of them\n/buykit <KitName> <Amount>. - Buys a kit. To get the contents you must redeem it with /kit kitname\n/shop <Page>. See different pages of the shop. No page will show first page.\n/sell <ID> <Amount> - Sell X amount of the item with ID\n/shopsell <Page> - See what's available to sell. No page will show the first page\n/shophelp - Custom help message"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Structure Limits",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Structure Limits",
+						"text": "Certain structures can only be placed in limited quantity\n\n\nPlugin commands:\n\n/showlimits (Chat) - Display current limits and amount of placed structures.\n/showcluster (Chat) - Display amount of connected structures of the structure you're looking at."
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "HORN Discord",
+				"url": "https://discord.gg/3CrRf3jR"
+			},
+			{
+				"text": "Primal Chaos Progression Guide",
+				"url": "https://docs.google.com/spreadsheets/d/1cT7InAARC7WxlWVByin3DLlLE5HZ1e6P93UNyO2Kl1A/edit?gid=167993344#gid=167993344"
+			}
+		],
+		"version": 2
+	}
+}
