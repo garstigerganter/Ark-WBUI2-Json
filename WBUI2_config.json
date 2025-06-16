@@ -39,6 +39,17 @@
 			},
 			{
 				"layout": 1,
+				"buttontext": "Tips and Tricks",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Structure Limits",
+						"text": "Certain structures can only be placed in limited quantity\n\n\nPlugin commands:\n\n/showlimits (Chat) - Display current limits and amount of placed structures.\n/showcluster (Chat) - Display amount of connected structures of the structure you're looking at."
+					}
+				]
+			}
+			{
+				"layout": 1,
 				"buttontext": "HORN Settings",
 				"imageurl": "",
 				"content": [
