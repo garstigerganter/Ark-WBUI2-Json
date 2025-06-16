@@ -39,23 +39,23 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "Tips and Tricks",
-				"imageurl": "",
-				"content": [
-					{
-						"title": "Tips and Tricks",
-						"text": "Use the Seed Farm and the Upgrade Station mod, it can make your life so much easier.\n\nPosion Drake is best for knocking out high level dinos.\n\nTo get eggs use the depot terminals. At least one male must be in there or it might not work."
-					}
-				]
-			}
-			{
-				"layout": 1,
 				"buttontext": "HORN Settings",
 				"imageurl": "",
 				"content": [
 					{
 						"title": "General Settings",
 						"text": "20x XP\n\n10x Harvesting\n\n50x Taming\n\n500x Maturation\n\nDino Harvesting Boosted\n\nDino Spawns 1,6x\n\nWild dino damage and health is boosted so you don't fall asleep"
+					}
+				]
+			},
+						{
+				"layout": 1,
+				"buttontext": "Tips and Tricks",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Tips and Tricks",
+						"text": "Use the Seed Farm and the Upgrade Station mod, it can make your life so much easier.\n\nPosion Drake is best for knocking out high level dinos.\n\nTo get eggs use the depot terminals. At least one male must be in there or it might not work."
 					}
 				]
 			},
