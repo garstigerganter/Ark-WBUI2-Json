@@ -43,8 +43,8 @@
 				"imageurl": "",
 				"content": [
 					{
-						"title": "Structure Limits",
-						"text": "Certain structures can only be placed in limited quantity\n\n\nPlugin commands:\n\n/showlimits (Chat) - Display current limits and amount of placed structures.\n/showcluster (Chat) - Display amount of connected structures of the structure you're looking at."
+						"title": "Tips and Tricks",
+						"text": "Use the Seed Farm and the Upgrade Station mod, it can make your life so much easier.\n\nPosion Drake is best for knocking out high level dinos."
 					}
 				]
 			}
