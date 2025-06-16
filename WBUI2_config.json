@@ -65,8 +65,8 @@
 				"imageurl": "",
 				"content": [
 					{
-						"title": "Shop Commands",
-						"text": "Shop UI isn't set up yet and shop is to be expanded\n\n\nShop Plugin commands:\n\n/points - See your current points balance\n/buy <ID> <Amount> - Buy an item from the shop\n/trade <'CharacterName'> <Amount> - Sends Amount Points to the character name specified\n/kit to list all kits, /kit <KitName> to redeem one of them\n/buykit <KitName> <Amount>. - Buys a kit. To get the contents you must redeem it with /kit kitname\n/shop <Page>. See different pages of the shop. No page will show first page.\n/sell <ID> <Amount> - Sell X amount of the item with ID\n/shopsell <Page> - See what's available to sell. No page will show the first page\n/shophelp - Custom help message"
+						"title": "Ark Shop",
+						"text": "Press F3 to open the Shop. WIP"
 					}
 				]
 			},
