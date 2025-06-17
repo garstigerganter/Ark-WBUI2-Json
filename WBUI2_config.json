@@ -44,7 +44,7 @@
 				"content": [
 					{
 						"title": "General Settings",
-						"text": "20x XP\n\n10x Harvesting\n\n50x Taming\n\n500x Maturation\n\nDino Harvesting Boosted\n\nDino Spawns 1,6x\n\nWild dino damage and health is boosted so you don't fall asleep"
+						"text": "20x XP\n\n10x Harvesting\n\n50x Taming\n\n500x Maturation\n\nDino Harvesting Boosted\n\nDino Spawns 1,6x (1,4x on Astra to make it more stable)\n\nWild dino damage and health is boosted so you don't fall asleep"
 					}
 				]
 			},
@@ -77,7 +77,18 @@
 				"content": [
 					{
 						"title": "Ark Shop",
-						"text": "Press F3 to open the Shop. WIP"
+						"text": "Press F3 to open the Shop. WIP\n\n50 points each 10 Minutes for normal players\n\n\nShop Commands:\n\n/points - See your current points balance\n\n/buy <ID> <Amount> - Buy an item from the shop\n\n/trade <'CharacterName'> <Amount> - Sends Amount Points to the character name specified\n\n/kit to list all kits, /kit <KitName> to redeem one of them\n\n/buykit <KitName> <Amount>. - Buys a kit. To get the contents you must redeem it with /kit kitname\n\n/shop <Page>. See different pages of the shop. No page will show first page.\n\n/sell <ID> <Amount> - Sell X amount of the item with ID\n\n/shopsell <Page> - See what's available to sell. No page will show the first page\n\n/shophelp - Custom help message"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Point Rewards",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Point Rewards",
+						"text": "Killing certain dinos gains you points for the ArkShop.\n\n\nRewards are as follows:\n\nAlpha Dinos: 1 Point, 2 Points for Max Level\n\nElemental Dinos: 2 Points, 3 Points for Max Level\n\nFairy / Shadow Dinos: 3 Points, 4 Points for Max Level\n\nFabled / Legendary / Mythic Dinos: 4 Points, 5 Points for Max Level\n\nDemonic / Angelic Dinos: 5 Points, 6 Points for Max Level\n\nChaos / Spirit Dinos: 8 Points, 10 Points for Max Level\n\nAlpha Dinos: 1 Point, 2 Points for Max Level\n\nOrigin Bosses: 10 Points, 15 Points for Max Level\n\n\nWIP: Some kinds of dinos are missing and some in the higher tiers dont work properly because the Primal Chaos Spreadsheet doesn't list them or has them wrong so I have to get them from the manifest."
 					}
 				]
 			},
