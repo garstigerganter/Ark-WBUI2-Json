@@ -99,7 +99,7 @@
 				"content": [
 					{
 						"title": "Structure Limits",
-						"text": "Certain structures can only be placed in limited quantity\n\n\nPlugin commands:\n\n/showlimits (Chat) - Display current limits and amount of placed structures.\n/showcluster (Chat) - Display amount of connected structures of the structure you're looking at."
+						"text": "Certain structures can only be placed in limited quantity\n\n\nPlugin commands:\n\n/showlimits (Chat) - Display current limits and amount of placed structures.\n/showcluster (Chat) - Display amount of connected structures of the structure you're looking at.\n\n\nRight now the structures limited in number include crop plots and propagators."
 					}
 				]
 			}
